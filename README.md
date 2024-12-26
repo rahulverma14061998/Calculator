@@ -45,3 +45,20 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/your-username/stylish-calculator.git
    cd stylish-calculator
+
+---
+
+## 🤝 Contributing
+Want to improve this project? Here’s how:  
+1. Fork the repository.  
+2. Create your branch: `git checkout -b feature/YourFeature`.  
+3. Commit your changes: `git commit -m 'Add your feature'`.  
+4. Push to the branch: `git push origin feature/YourFeature`.  
+5. Open a pull request.
+
+---
+
+## 💖 Acknowledgments
+- **React** and **Vite** communities for their fantastic tools.  
+- Inspiration from modern web designs.  
+- Special thanks to all open-source contributors!
